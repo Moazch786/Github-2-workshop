@@ -6,13 +6,14 @@ def my_function():
     c=65
     g = 68
     hg = 54
-    
+
 
 
     return 43
     return 65
-    return 76
+    return 777
     return 78
+    return 87
 
 
 
