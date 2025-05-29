@@ -1,6 +1,8 @@
+"""This module contains a simple demo function."""
+
 def hello():
     """
-    this is demo
+    This is a demo function that returns a greeting.
     """
     return "Hello Dosto"
 
