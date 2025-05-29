@@ -14,6 +14,9 @@ def my_function():
     return 777
     return 78
     return 87
+    return 64
+    return 76
+
 
 
 
